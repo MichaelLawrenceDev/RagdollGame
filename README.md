@@ -14,5 +14,5 @@ This game is simply a prototype to show my personal hobby of video game developm
 ![](RagdollGameImages/Gameplay3.PNG)
 
 # Editor
-![](RagdollGameImages/EditorScreen.PNG)
+![](RagdollGameImages/EditorScreen1.PNG)
 ![](RagdollGameImages/EditorScreen2.PNG)
